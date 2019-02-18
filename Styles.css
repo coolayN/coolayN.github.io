@@ -55,6 +55,17 @@ a.first-header {
     font-family: Tahoma;
     text-indent: 22px;
 }
+#tasks{
+	 font-size: 22px;
+    text-align: center;
+	line-height: 1.5
+}
+#kata{
+	 font-size: 18px;
+	text-align: left;
+	padding-left:0px;
+	margin-left: 200px;
+}
 #h1-cent {
     font-size: 25px;
     text-align: center;
